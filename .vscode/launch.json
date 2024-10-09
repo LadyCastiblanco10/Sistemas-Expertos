@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SaludAppGUI",
+            "request": "launch",
+            "mainClass": "SaludAppGUI",
+            "projectName": "Inteligencia -Ejercicio_aa61d576"
+        },
+        {
+            "type": "java",
+            "name": "JessInputStreamExample",
+            "request": "launch",
+            "mainClass": "JessInputStreamExample",
+            "projectName": "Inteligencia -Ejercicio_aa61d576"
+        },
+        {
+            "type": "java",
+            "name": "SaludAppGUI",
+            "request": "launch",
+            "mainClass": "SaludAppGUI",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        },
+        {
+            "type": "java",
+            "name": "SaludApp",
+            "request": "launch",
+            "mainClass": "SaludApp",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        },
+        {
+            "type": "java",
+            "name": "JessInputStreamExample",
+            "request": "launch",
+            "mainClass": "JessInputStreamExample",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        },
+        {
+            "type": "java",
+            "name": "JessFetchExample",
+            "request": "launch",
+            "mainClass": "JessFetchExample",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "RecomendadorDeEjercicios",
+            "request": "launch",
+            "mainClass": "RecomendadorDeEjercicios",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        },
+        {
+            "type": "java",
+            "name": "RecomendadorGUI",
+            "request": "launch",
+            "mainClass": "RecomendadorGUI",
+            "projectName": "Inteligencia -Ejercicio_6d6dff3a"
+        }
+    ]
+}
